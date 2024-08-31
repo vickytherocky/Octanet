@@ -14,4 +14,3 @@ This project is a Python-based ATM machine simulation that provides a command-li
 - PIN change
 - Transaction history
 
-# DEMO VIDEO
